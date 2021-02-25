@@ -1,0 +1,130 @@
+Use master
+Create DataBase BdFCTs
+Go
+
+
+USE [BdFCTs]
+GO
+/****** Object:  Table [dbo].[Alumnos]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Alumnos](
+	[NMatricula] [int] NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[Telefono] [nvarchar](9) NOT NULL,
+	[Aprobado] [bit] NOT NULL,
+	[IdCiclo] [nvarchar](10) NULL,
+ CONSTRAINT [PK_Alumns] PRIMARY KEY CLUSTERED 
+(
+	[NMatricula] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Ciclos]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Ciclos](
+	[Id] [nvarchar](10) NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[Tipo] [nvarchar](10) NOT NULL,
+ CONSTRAINT [PK_Ciclos] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Empresas]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Empresas](
+	[Id] [int] NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[TelefonoContacto] [nvarchar](9) NOT NULL,
+ CONSTRAINT [PK_Empresas] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[FCTs]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[FCTs](
+	[NMatricula] [int] NOT NULL,
+	[IdEmpresa] [int] NOT NULL,
+	[TutorInsti] [nvarchar](10) NOT NULL,
+	[TutorEmpresa] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_FCTs_1] PRIMARY KEY CLUSTERED 
+(
+	[NMatricula] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[OfertasFCT]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[OfertasFCT](
+	[IdEmpresa] [int] NOT NULL,
+	[IdCiclo] [nvarchar](10) NOT NULL,
+	[Cantidad] [int] NOT NULL,
+ CONSTRAINT [PK_OfertasFCT] PRIMARY KEY CLUSTERED 
+(
+	[IdEmpresa] ASC,
+	[IdCiclo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Profes]    Script Date: 19/02/2021 21:40:43 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Profes](
+	[Id] [nvarchar](10) NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Profes] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Alumnos]  WITH CHECK ADD  CONSTRAINT [FK_Alumnos_Ciclos] FOREIGN KEY([IdCiclo])
+REFERENCES [dbo].[Ciclos] ([Id])
+GO
+ALTER TABLE [dbo].[Alumnos] CHECK CONSTRAINT [FK_Alumnos_Ciclos]
+GO
+ALTER TABLE [dbo].[FCTs]  WITH CHECK ADD  CONSTRAINT [FK_FCTs_Alumnos] FOREIGN KEY([NMatricula])
+REFERENCES [dbo].[Alumnos] ([NMatricula])
+GO
+ALTER TABLE [dbo].[FCTs] CHECK CONSTRAINT [FK_FCTs_Alumnos]
+GO
+ALTER TABLE [dbo].[FCTs]  WITH CHECK ADD  CONSTRAINT [FK_FCTs_Empresas] FOREIGN KEY([IdEmpresa])
+REFERENCES [dbo].[Empresas] ([Id])
+GO
+ALTER TABLE [dbo].[FCTs] CHECK CONSTRAINT [FK_FCTs_Empresas]
+GO
+ALTER TABLE [dbo].[FCTs]  WITH CHECK ADD  CONSTRAINT [FK_FCTs_Profes] FOREIGN KEY([TutorInsti])
+REFERENCES [dbo].[Profes] ([Id])
+GO
+ALTER TABLE [dbo].[FCTs] CHECK CONSTRAINT [FK_FCTs_Profes]
+GO
+ALTER TABLE [dbo].[OfertasFCT]  WITH CHECK ADD  CONSTRAINT [FK_OfertasFCT_Ciclos] FOREIGN KEY([IdCiclo])
+REFERENCES [dbo].[Ciclos] ([Id])
+GO
+ALTER TABLE [dbo].[OfertasFCT] CHECK CONSTRAINT [FK_OfertasFCT_Ciclos]
+GO
+ALTER TABLE [dbo].[OfertasFCT]  WITH CHECK ADD  CONSTRAINT [FK_OfertasFCT_Empresas] FOREIGN KEY([IdEmpresa])
+REFERENCES [dbo].[Empresas] ([Id])
+GO
+ALTER TABLE [dbo].[OfertasFCT] CHECK CONSTRAINT [FK_OfertasFCT_Empresas]
+GO

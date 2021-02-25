@@ -1,0 +1,173 @@
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Trabajando en\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Actual\ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Actual\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\Maria\Desktop\Trabajando en\Ex3 MarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\07EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\07 EF 1718 ExMarzoFCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maria\Desktop\Lanean\Acceso Datos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignarEmpresa.resources
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultasPorCiclo.resources
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRetirarEmpresa.resources
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaPresentacion\bin\Debug\Entidades.dll.config

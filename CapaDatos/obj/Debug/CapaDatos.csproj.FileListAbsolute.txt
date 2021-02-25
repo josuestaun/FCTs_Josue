@@ -1,0 +1,15 @@
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\Entidades.dll.config
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Josue\source\repos\06 EF FCTs\CapaDatos\obj\Debug\CapaDatos.pdb

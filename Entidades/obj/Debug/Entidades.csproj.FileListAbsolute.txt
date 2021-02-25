@@ -1,0 +1,12 @@
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\Entidades.dll
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\obj\Debug\Entidades.dll
+C:\Users\Josue\source\repos\06 EF FCTs\Entidades\obj\Debug\Entidades.pdb
